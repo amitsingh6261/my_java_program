@@ -10,7 +10,6 @@ public class ArithmeticOperatorEx1 {
 		double c=7.0/2;
 		System.out.println(c);
 		
-		//int d=7.0/2; //error
 		int d=(int)(7.0/2);
 		System.out.println(d);
 	}
