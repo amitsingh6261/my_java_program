@@ -16,7 +16,6 @@ public class BitwiseOperatorEx {
 		r=~a;
 		System.out.println(r);
 		
-//		System.out.println(2.5|1.4); //Error
 	}
 
 }
